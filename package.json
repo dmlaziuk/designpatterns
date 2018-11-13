@@ -1,0 +1,11 @@
+{
+  "name": "designpatterns",
+  "version": "1.0.0",
+  "description": "JavaScript Design Patterns",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "dm.laziuk@gmail.com",
+  "license": "MIT"
+}
