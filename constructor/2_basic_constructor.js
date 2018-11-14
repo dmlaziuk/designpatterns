@@ -1,4 +1,4 @@
-// Constructor functions
+console.log('\n2. Constructor functions\n')
 
 function Car (model, year, miles) {
   this.model = model

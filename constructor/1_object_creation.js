@@ -1,4 +1,5 @@
-// Create objects
+console.log('\n1. Object Creation\n')
+
 // Each of the following options will create a new empty object:
 
 var newObject = {}

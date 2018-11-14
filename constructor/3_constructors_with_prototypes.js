@@ -1,3 +1,5 @@
+console.log('\n3. Constructors with prototypes\n')
+
 function Car (model, year, miles) {
   this.model = model
   this.year = year
