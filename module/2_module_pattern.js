@@ -1,4 +1,5 @@
-console.log('\n2. Module Pattern\n')
+const { subtitle } = require('../utils')
+subtitle('2.2. Module Pattern')
 
 // Boilerplate template
 

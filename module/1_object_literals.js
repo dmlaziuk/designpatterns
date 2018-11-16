@@ -1,4 +1,5 @@
-console.log('\n1. Object Literals\n')
+const { subtitle } = require('../utils')
+subtitle('2.1. Object Literals')
 
 var myModule = {
   myProperty: 'someValue',

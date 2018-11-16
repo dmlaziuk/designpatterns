@@ -1,4 +1,5 @@
-console.log('\n3. Constructors with prototypes\n')
+const { subtitle } = require('../utils')
+subtitle('1.3. Constructors with prototypes')
 
 function Car (model, year, miles) {
   this.model = model

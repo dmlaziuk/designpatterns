@@ -1,4 +1,5 @@
-console.log('\n3. Module Pattern Variations\n')
+const { subtitle } = require('../utils')
+subtitle('2.3. Module Pattern Variations')
 
 // Import mixins
 

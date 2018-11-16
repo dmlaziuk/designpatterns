@@ -1,4 +1,5 @@
-console.log('\n2. Constructor functions\n')
+const { subtitle } = require('../utils')
+subtitle('1.2. Constructor functions')
 
 function Car (model, year, miles) {
   this.model = model

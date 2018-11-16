@@ -1,4 +1,5 @@
-console.log('\n1. Object Creation\n')
+const { subtitle } = require('../utils')
+subtitle('1.1. Object Creation')
 
 // Each of the following options will create a new empty object:
 
